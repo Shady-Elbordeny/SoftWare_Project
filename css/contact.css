@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Jomhuria', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.contact-wrap {
+    background: #343a40;
+}
+
+.contactForm .label {
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+}
+.btn{
+    background: #FF8D29;
+    border-color: #FF8D29;
+    color: #fff;
+    font-size: 20px;
+}
+.dbox .icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #FF8D29;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.dbox p a {
+    color: #FF8D29;
+}

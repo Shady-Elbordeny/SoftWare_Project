@@ -1,0 +1,14 @@
+.card-5 .card-heading {
+    padding: 20px 0;
+    background-color: #FF8D29;
+    -webkit-border-top-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topright: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn{
+  background-color: #FF8D29;
+}
